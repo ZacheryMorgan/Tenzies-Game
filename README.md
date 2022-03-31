@@ -1,6 +1,6 @@
 # React Tenzies Game
 
-# [Play Now](https://zacherymorgan.github.io/React-Notes-App/)
+# [Play Now](https://zacherymorgan.github.io/Tenzies-Game/)
 
 ### Features
 
