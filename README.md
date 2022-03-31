@@ -1,10 +1,8 @@
 # React Tenzies Game
 
-# Live View
+# [Play Now](https://zacherymorgan.github.io/React-Notes-App/)
 
-[Play Now](https://zacherymorgan.github.io/React-Notes-App/)
-
-# Features
+### Features
 
 - Confetti on win
 - Resets after win
